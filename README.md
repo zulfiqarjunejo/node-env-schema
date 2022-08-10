@@ -2,8 +2,8 @@
 This is an experiment on how to best use env-schema library
 
 ## goals
-- Validate that all the required environment variables are present.
-- Additionally, a single object should contain variables instead of process.env
+- [x] Validate that all the required environment variables are present.
+- [x] Additionally, a single object should contain variables instead of process.env
 
 ## commands
 - Success command `HOST="localhost" node index.js`
